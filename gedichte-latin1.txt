@@ -2183,10 +2183,10 @@ in Leipzig
 
 
 
-[ Im folgenden werden alle geänderten Textzeilen angeführt, wobei
-jeweils zuerst die Zeile wie im Original, danach die geänderte Zeile
-steht.
+  [ Im folgenden werden alle geänderten Textzeilen angeführt, wobei
+    jeweils zuerst die Zeile wie im Original, danach die geänderte Zeile
+    steht.
 
-- So ahnte mir, da ich den Traum da fand --
--- So ahnte mir, da ich den Traum da fand --
-]
+    - So ahnte mir, da ich den Traum da fand --
+    -- So ahnte mir, da ich den Traum da fand --
+  ]
