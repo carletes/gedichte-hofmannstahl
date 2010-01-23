@@ -857,7 +857,7 @@ Ja, halb mich wissend und halb im Taumel
 Betrüge ich endlich und liebe noch recht!
 So war es mit Pagliazzo
 Und mit Mezzetin!
-Dann war es Cavicchio,[** Caviechio?]
+Dann war es Cavicchio,
 Dann Buratin,
 Dann Pasquariello!
 Ach, und zuweilen,
@@ -1465,13 +1465,13 @@ Ersehntes, Hergegebnes, mich, das Ganze!
 Ich bin von einem solchen großen Leben
 Umrahmt, ich habe mit dem großen Glanze
 Der schönen Sterne eine also nah
-Verwandte[**Verwand_t_e? P3:t] Trunkenheit --
+Verwandte Trunkenheit --
 */
 -----File: 051.png---\mivo\rbh\Savannah_Singh\mstraesser\Frau Sma\---------
 /*
 Nach welcher Zukunft greif ich Trunkner da?
 Doch schwebt sie her, ich darf sie schon berühren:
-Denn zu den Sternen steigt, was längst geschah.[**, P2]
+Denn zu den Sternen steigt, was längst geschah,
 Empor, und andre, andre Ströme führen
 Das Ungeschehene herauf, die Erde
 Läßt es empor aus unsichtbaren Türen,
@@ -1824,7 +1824,7 @@ DER SCHMIED
 Die ganze kenn ich, kennend meinen Kreis,
 Maßloses nicht verlangend, noch begierig ich,
 Die flüchtge Flut zu ballen in der hohlen Hand.
-Den Bach, der deine Wiege schaukelte, erkennen lern.[**, ?]
+Den Bach, der deine Wiege schaukelte, erkennen lern,
 Den Nachbarbaum, der dir die Früchte an der Sonne reift
 Und dufterfüllten lauen Schatten niedergießt,
 Das kühle grüne Gras, es trats dein Fuß als Kind.
@@ -2329,7 +2329,7 @@ Bote und Träger bist du immerdar,
 Und als des Schwebend-Unzerstörbaren
 Gedenken wir des Geistes, der du bist.
 
-O Stimme! Seele! aufgeflogene![**'A' cap? see stanza above; F2: I don't think so, this time it's an adjective, not substantival]
+O Stimme! Seele! aufgeflogene!
 */
 -----File: 076.png---\Mr Marc\mivo\Savannah_Singh\mstraesser\Frau Sma\-----
 
