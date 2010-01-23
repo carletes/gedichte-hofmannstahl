@@ -52,9 +52,7 @@ Er flog mit Schweigen
 Durch flüsternde Zimmer
 Und löschte im Neigen
 Der Ampel Schimmer.
-*/
 
-/*
 Es läuft der Frühlingswind
 Durch kahle Alleen,
 Seltsame Dinge sind
@@ -107,8 +105,6 @@ Den Duft der Fliederbüsche, sieht sich selber.
 Ein Kind, am Ufer stehn, mit Kindesaugen,
 Die ängstlich sind und weinen wollen, sieht
 Durchs offne Fenster Licht in seinem Zimmer --
-*/
-/*
 Das große Seeschiff aber trägt ihn weiter,
 Auf dunkelblauem Wasser lautlos gleitend
 Mit gelben, fremdgeformten Riesensegeln.
@@ -150,8 +146,6 @@ Nun steigt das geisterhafte Frühlicht. Nun
 Schleicht einer ohne Schuh von einem Frauenbett,
 Läuft wie ein Schatten, klettert wie ein Dieb
 Durchs Fenster in sein eigenes Zimmer, sieht
-*/
-/*
 Sich im Wandspiegel und hat plötzlich Angst
 Vor diesem blassen, übernächtigen Fremden,
 Als hätte dieser selbe heute nacht
@@ -247,8 +241,6 @@ Das Salböl aus den Händen
 Der toten alten Frau
 Laß lächelnd ihn verschwenden
 An Adler, Lamm und Pfau:
-*/
-/*
 Er lächelt der Gefährten. --
 Die schwebend unbeschwerten
 Abgründe und die Gärten
@@ -424,8 +416,6 @@ Durch Nacht den Weg sich sucht mit einer Kerze:
 Die Wolke, die hinzog am nächsten Morgen,
 Mit Donnerschlag von tausenden Gewittern
 Und blauem Lichte stark wie nahe Sonnen
-*/
-/*
 Und schauerlichem Sturz von heißen Steinen,
 Die Insel heimzusuchen, wo das Zittern
 Aufblühen ließ die wundervollsten Wonnen;
@@ -500,8 +490,6 @@ Daß dann vielleicht ein Vers von dir sie mir
 Veredelt künftig in der Einsamkeit
 Und da und dort Erinnerung an dich
 Ein Schatten nistet und zur Dämmerung
-*/
-/*
 Die Straße zwischen dunklen Wipfeln rollt
 Und schattenlose Wege in der Luft
 Dahinrolln wie ein ferner goldner Donner.
@@ -547,9 +535,7 @@ So leicht und feierlich und ohne Grauen,
 Wie kleine Mädchen, die sehr blaß aussehn,
 Mit großen Augen, und die immer frieren,
 An einem Abend stumm vor sich hinsehn
-*/
 
-/*
 Und wissen, daß das Leben jetzt aus ihren
 Schlaftrunknen Gliedern still hinüberfließt
 In Bäum' und Gras, und sich matt lächelnd zieren
@@ -587,9 +573,7 @@ IV
 Zuweilen kommen niegeliebte Frauen
 Im Traum als kleine Mädchen uns entgegen
 Und sind unsäglich rührend anzuschauen,
-*/
 
-/*
 Als wären sie mit uns auf fernen Wegen
 Einmal an einem Abend lang gegangen,
 Indes die Wipfel atmend sich bewegen
@@ -682,8 +666,6 @@ Und fielen tönend wieder ab in Ringen.
 Dann warf er sich mit leichtem Schwung der Lenden --
 Wie nur aus Stolz -- der nächsten Klippe zu;
 An ihm sah ich die Macht der Schwere enden.
-*/
-/*
 
 In seinen Augen aber war die Ruh
 Von schlafend- doch lebendgen Edelsteinen.
@@ -840,8 +822,6 @@ Daß ein Herz so gar sich selber,
 Gar sich selber nicht versteht!
 Als ein Gott kam jeder gegangen,
 Und sein Schritt schon machte mich stumm,
-*/
-/*
 Küßte er mir Stirn und Wangen,
 War ich von dem Gott gefangen
 Und gewandelt um und um!
@@ -1044,9 +1024,7 @@ Doch nirgend flüsterts: >Alles dies ist nichts.<
 Das Tal wird dunkel, und wo Häuser sind,
 Sind Lichter, und das Dunkel weht mich an,
 Doch nicht vom Sterben spricht der nächtige Wind.
-*/
 
-/*
 Ich gehe übern Friedhof hin und sehe
 Nur Blumen sich im letzten Scheine wiegen,
 Von gar nichts anderm fühl ich eine Nähe.
@@ -1149,8 +1127,6 @@ Namen nach der einen Stunde,
 Da mir einer näher kam,
 Frauen, die ich ihnen schenkte,
 Und den Scharen ihrer Kinder,
-*/
-/*
 Allen Edlen dieser Erde
 Schuf ich Augen, Wuchs und Lippen,
 Wie der Gärtner an den Blumen.
@@ -1200,9 +1176,7 @@ Schwankend nah und fern!
 Mich fürs Leben gab,
 Trat ich so verwirrt nicht ein
 Wie nun in mein Grab.<
-*/
 
-/*
 Grab? Was redest du von dem?
 Das ist weit von dir!
 Sitzest plaudernd und bequem
@@ -1267,8 +1241,6 @@ Denn so wie bunte Muscheln oder Vögel
 Hat sie die Tugend lieb. Bis eines Tages
 Ihr sie vermählt mit Einem, den ihr völlig
 Durchschaut, den ihr geprüft auf solche Art,
-*/
-/*
 Die kein unedler Mensch erträgt, als wäre er
 Schiffbrüchig ausgeworfen auf der Insel,
 Die ihr beherrscht, und ganz euch zugefallen
@@ -1416,8 +1388,6 @@ Ich bin von einem solchen großen Leben
 Umrahmt, ich habe mit dem großen Glanze
 Der schönen Sterne eine also nah
 Verwandte Trunkenheit --
-*/
-/*
 Nach welcher Zukunft greif ich Trunkner da?
 Doch schwebt sie her, ich darf sie schon berühren:
 Denn zu den Sternen steigt, was längst geschah,
@@ -1459,8 +1429,6 @@ Gehört, da schien er kühn und angeschwollen,
 Jetzt sinkt das Rauschen, und die hohe Ferne
 Wird leer und öd aus einer ahnungsvollen:
 Die Welt besitzt sich selber, o ich lerne!
-*/
-/*
 Nicht hemme ich die widrige Gestalt
 So wenig als den Lauf der schönen Sterne.
 Vor meinen Augen tut sich die Gewalt,
@@ -1523,8 +1491,6 @@ Der Vater Henkel, mit Akanthusblatt geziert,
 Und ein Akanthus-, ein Olivenkranz wohl auch
 Umlief als dunkelroter Schmuck des Kruges Rand.
 Den schönen Körper dann belebte er mit Reigenkranz
-*/
-/*
 Der Horen, der vorüberschwebend lebenspendenden.
 Er schuf, gestreckt auf königliche Ruhebank,
 Der Phädra wundervollen Leib, von Sehnsucht matt,
@@ -1589,8 +1555,6 @@ Wo duftig aufgeworfne Scholle Samen trinkt
 Und gelbes Korn der Sichel dann entgegenquillt,
 Wo zwischen stillen Stämmen nach dem scheuen Wild
 Der Pfeil hinschwirrt und tödlich in den Nacken schlägt,
-*/
-/*
 Wo harter Huf von Rossen staubaufwirbelnd dröhnt
 Und rasche Räder rollen zwischen Stadt und Stadt,
 Wo der gewaltig klirrende, der Männerstreit
@@ -1833,8 +1797,6 @@ DER ZENTAUR
 
 /*
 Mit nichten, da doch Lust und Weg noch offen steht.
-*/
-/*
 Mit festen Fingern greif mir ins Gelock und klammre dich,
 Am Rücken ruhend, mir an Arm und Nacken an!
 */
@@ -1905,8 +1867,6 @@ Tönen Geigen, Klarinetten,
 Und sie scheinen den graziösen
 Amoretten zu entströmen,
 Die rings auf der Rampe sitzen,
-*/
-/*
 Fiedelnd oder Blumen windend,
 Selbst von Blumen bunt umgeben,
 Die aus Marmorvasen strömen:
@@ -1939,8 +1899,6 @@ Spielen unsre eignen Stücke,
 Frühgereift und zart und traurig,
 Die Komödie unsrer Seele,
 Unsres Fühlens Heut und Gestern,
-*/
-/*
 Böser Dinge hübsche Formel,
 Glatte Worte, bunte Bilder,
 Halbes, heimliches Empfinden,
@@ -1992,8 +1950,6 @@ Und unsre Unterhaltung wunderlich.
   In dieses Spiel verflochten, halb geschminkt,
   Halb noch sich selber gleich, und so entfremdet
   Der großen Unschuld, die sie früher hatten!
-*/
-/*
 Ward je ein so verworrnes Spiel gespielt?
 Es stiehlt uns von uns selbst und ist nicht lieblich
 Wie Tanzen oder auf dem Wasser Singen,
@@ -2042,8 +1998,6 @@ Hieb er sich selbst in Stücke: Jago war
 Vielleicht das eine, und die andre Hälfte
 Gab einen süßen Narren oder Träumer.
 Sein ganzer Leib war wie der Zauberschleier,
-*/
-/*
 In dessen Falten alle Dinge wohnen:
 Er holte Tiere aus sich selbst hervor:
 Das Schaf, den Löwen, einen dummen Teufel
@@ -2076,8 +2030,6 @@ War eine Bucht, drin brandete das Meer.
 Denn in ihm war etwas, das viele Türen
 Aufschloß und viele Räume überflog:
 Gewalt des Lebens, diese war in ihm.
-*/
-/*
 Und über ihn bekam der Tod Gewalt!
 Blies aus die Augen, deren innrer Kern
 Bedeckt war mit geheimnisvollen Zeichen,
@@ -2130,8 +2082,6 @@ Ein durchsichtig Gehäus, den Leib, erbauen:
 Gemeine Menschen, finstre Menschen, Könige,
 Menschen zum Lachen, Menschen zum Erschaudern --
 Er schuf sich um und um: da standen sie.
-*/
-/*
 Doch wenn das Spiel verlosch und sich der Vorhang
 Lautlos wie ein geschminktes Augenlid
 Vor die erstorbne Zauberhöhle legte
@@ -2202,8 +2152,6 @@ Und Bote eines namenlosen Herrn.
 
 Er ist an uns vorüber. Seine Seele
 War eine allzu schnelle Seele, und
-*/
-/*
 Sein Aug glich allzusehr dem Aug des Vogels.
 Dies Haus hat ihn gehabt -- doch hielt es ihn?
 Wir haben ihn gehabt -- er fiel dahin,
@@ -2236,8 +2184,6 @@ Jung oder alt zu sein, schlafloses Aug,
 O Aug des Sperbers, der auch vor der Sonne
 Den Blick nicht niederschlägt, o kühnes Aug,
 Das beiderlei Abgrund gemessen hat,
-*/
-/*
 Des Lebens wie des Todes -- Aug des <g>Boten</g>!
 O Bote aller Boten, Geist! Du Geist!
 Dein Bleiben unter uns war ein Verschmähen,
@@ -2298,8 +2244,6 @@ In die vier Winde, wie wenn Könige sterben:
 Ein König läßt dem Erben seinen Reif
 Und einem Grabstein seines Namens Schall.
 Doch du warst solch ein großer Zauberer,
-*/
-/*
 Dein Sichtbares ging fort, doch weiß ich nicht,
 Was da und dort nicht alles von dir bleibt,
 Mit heimlicher fortlebender Gewalt
@@ -2400,8 +2344,6 @@ Des alten Mannes Sehnsucht nach dem
 Sommer             44
 
 Verse auf ein kleines Kind        46
-*/
-/*
 
 Der Kaiser von China spricht       47
 
