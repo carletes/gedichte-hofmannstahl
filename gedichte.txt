@@ -1,13 +1,13 @@
 
 -----File: 001.png---\Mr Marc\rnary.stuart\Savannah_Singh\Be Yourself\Frau Sma\
 /*
-HUGO VON HOFMANNSTHAL
+                          HUGO VON HOFMANNSTHAL
 
-GEDICHTE
+                                GEDICHTE
 
-1922
+                                  1922
 
-IM INSEL-VERLAG ZU LEIPZIG
+                       IM INSEL-VERLAG ZU LEIPZIG
 */
 -----File: 002.png---\Mr Marc\rnary.stuart\Savannah_Singh\Be Yourself\Frau Sma\
 
@@ -20,7 +20,10 @@ DIE GESAMMELTEN GEDICHTE
 -----File: 003.png---\Mr Marc\rnary.stuart\Savannah_Singh\Be Yourself\Frau Sma\
 
 
+
+
 VORFRÜHLING
+
 
 /*
 Es läuft der Frühlingswind
@@ -199,7 +202,7 @@ DIE BEIDEN
 
 /*
 Sie trug den Becher in der Hand
--- Ihr Kinn und Mund glich seinem Rand --,[**space needed before ","? P3: don't think so; F1: the project comments read "If there are spaces around em-dashes (--) in the original, please retain or add them."--there is no space here]
+-- Ihr Kinn und Mund glich seinem Rand --,
 So leicht und sicher war ihr Gang,
 Kein Tropfen aus dem Becher sprang.
 
@@ -441,8 +444,7 @@ Und blauem Lichte stark wie nahe Sonnen
 */
 -----File: 018.png---\mivo\rbh\Savannah_Singh\Frau Sma\ortonmc\------------
 /*
-
-[** F1: not sure about new stanza]Und schauerlichem Sturz von heißen Steinen,
+Und schauerlichem Sturz von heißen Steinen,
 Die Insel heimzusuchen, wo das Zittern
 Aufblühen ließ die wundervollsten Wonnen;
 Vor ungeheurer Angst erstorbenes Weinen
@@ -569,8 +571,8 @@ Mit großen Augen, und die immer frieren,
 An einem Abend stumm vor sich hinsehn
 */
 -----File: 023.png---\mivo\rbh\Savannah_Singh\mstraesser\Frau Sma\---------
-/*
 
+/*
 Und wissen, daß das Leben jetzt aus ihren
 Schlaftrunknen Gliedern still hinüberfließt
 In Bäum' und Gras, und sich matt lächelnd zieren
@@ -610,8 +612,8 @@ Im Traum als kleine Mädchen uns entgegen
 Und sind unsäglich rührend anzuschauen,
 */
 -----File: 024.png---\mivo\rbh\Savannah_Singh\mstraesser\Frau Sma\---------
-/*
 
+/*
 Als wären sie mit uns auf fernen Wegen
 Einmal an einem Abend lang gegangen,
 Indes die Wipfel atmend sich bewegen
@@ -1083,8 +1085,8 @@ Sind Lichter, und das Dunkel weht mich an,
 Doch nicht vom Sterben spricht der nächtige Wind.
 */
 -----File: 040.png---\mivo\rbh\Savannah_Singh\mstraesser\Frau Sma\---------
-/*
 
+/*
 Ich gehe übern Friedhof hin und sehe
 Nur Blumen sich im letzten Scheine wiegen,
 Von gar nichts anderm fühl ich eine Nähe.
@@ -1244,8 +1246,8 @@ Trat ich so verwirrt nicht ein
 Wie nun in mein Grab.<
 */
 -----File: 045.png---\mivo\rbh\Savannah_Singh\mstraesser\Frau Sma\---------
-/*
 
+/*
 Grab? Was redest du von dem?
 Das ist weit von dir!
 Sitzest plaudernd und bequem
@@ -2111,7 +2113,7 @@ Sein ganzer Leib war wie der Zauberschleier,
 */
 -----File: 069.png---\Mr Marc\rbh\miplise\mstraesser\Frau Sma\-------------
 /*
-[** F2: new stanza?]In dessen Falten alle Dinge wohnen:
+In dessen Falten alle Dinge wohnen:
 Er holte Tiere aus sich selbst hervor:
 Das Schaf, den Löwen, einen dummen Teufel
 Und einen schrecklichen, und den, und jenen,
@@ -2146,7 +2148,7 @@ Gewalt des Lebens, diese war in ihm.
 */
 -----File: 070.png---\Mr Marc\mivo\Savannah_Singh\mstraesser\Frau Sma\-----
 /*
-[** F2: new stanza?]Und über ihn bekam der Tod Gewalt!
+Und über ihn bekam der Tod Gewalt!
 Blies aus die Augen, deren innrer Kern
 Bedeckt war mit geheimnisvollen Zeichen,
 Erwürgte in der Kehle tausend Stimmen
