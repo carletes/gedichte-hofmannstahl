@@ -1360,7 +1360,7 @@ DER JÜNGLING UND DIE SPINNE
 DER JÜNGLING
 
 /#
-(<g>vor sich mit wachsender Trunkenheit</g>):
+(=vor sich mit wachsender Trunkenheit=):
 #/
 
 /*
@@ -1401,7 +1401,7 @@ Bezwungen von der bittenden Gebärde!
 */
 
 /#
-(<g>So tritt er ans offene Fenster, das mit
+(=So tritt er ans offene Fenster, das mit
 hellem Mondlicht angefüllt und von den
 Schatten wilder Weinblätter eingerahmt
 ist. Indem tritt unter seinen Augen aus
@@ -1411,14 +1411,14 @@ und umklammert den Leib eines kleinen
 Tieres. Es gibt in der Stille der Nacht einen
 äußerst leisen, aber kläglichen Laut, und
 man meint die Bewegungen der heftig umklammernden
-Glieder zu hören.</g>)
+Glieder zu hören.=)
 #/
 
 
 DER JÜNGLING
 
 /#
-(<g>muß zurücktreten</g>):
+(=muß zurücktreten=):
 #/
 
 /*
@@ -1460,7 +1460,7 @@ AM RAND EINES FLUSSES
 
 
 /#
-(<g>Der Schauplatz im Böcklinschen Stil. Eine
+(=Der Schauplatz im Böcklinschen Stil. Eine
 offene Dorfschmiede. Dahinter das Haus,
 im Hintergrunde ein Fluß. Der Schmied an
 der Arbeit, sein Weib müßig an die Türe
@@ -1468,7 +1468,7 @@ gelehnt, die von der Schmiede ins Haus
 führt. Auf dem Boden spielt ein blondes
 kleines Kind mit einer zahmen Krabbe. In
 einer Nische ein Weinschlauch, ein paar
-frische Feigen und Melonenschalen.</g>)
+frische Feigen und Melonenschalen.=)
 #/
 
 
@@ -1567,7 +1567,7 @@ Mit starken Spuren meines Tuens, weil es tüchtig ist.
 */
 
 /#
-(<g>Pause.</g>)
+(=Pause.=)
 #/
 
 
@@ -1583,8 +1583,8 @@ Und aus dem Hain, entlang dem Ufer, traben her.
 DER ZENTAUR
 
 /#
-(<g>einen Speer in der Hand, den er dem
-Schmied hinhält</g>)
+(=einen Speer in der Hand, den er dem
+Schmied hinhält=)
 #/
 
 /*
@@ -1630,9 +1630,9 @@ Mit heißerm Safte eine schönre Frau als ich.
 */
 
 /#
-(<g>Sie hat den Wein aus dem Schlauch in eine
+(=Sie hat den Wein aus dem Schlauch in eine
 irdene Trinkschale gegossen, die er langsam
-schlürft.</g>)
+schlürft.=)
 #/
 
 
@@ -1748,7 +1748,7 @@ Ich finde sie und schaffe dir das letzte noch.
 */
 
 /#
-(<g>Er geht ins Haus.</g>)
+(=Er geht ins Haus.=)
 #/
 
 
@@ -1805,7 +1805,7 @@ Am Rücken ruhend, mir an Arm und Nacken an!
 */
 
 /#
-(<g>Sie schwingt sich auf seinen Rücken, und
+(=Sie schwingt sich auf seinen Rücken, und
 er stürmt hell schreiend zum Fluß hinunter,
 das Kind erschrickt und bricht in klägliches
 Weinen aus. Der Schmied tritt aus
@@ -1825,7 +1825,7 @@ läßt und mit ausgebreiteten Armen rücklings
 ins Wasser stürzt. Der Zentaur fängt
 die Sterbende in seinen Armen auf und
 trägt sie hocherhoben stromabwärts, dem
-andern Ufer zuschwimmend.</g>)
+andern Ufer zuschwimmend.=)
 #/
 
 
@@ -2102,7 +2102,7 @@ Ein jeder Schritt ein tiefrer als der frühere
 Und unerbittlich jedes stumme Zeichen:
 Das Angesicht der Nacht war mit im Bund,
 Der Wind im Bund, der sanfte Frühlingswind,
-Und alle <g>gegen</g> ihn! Nicht den gemeinen,
+Und alle =gegen= ihn! Nicht den gemeinen,
 Den zarten Seelen stellt das dunkle Schicksal
 Fallstricke dieser Art. Dann kam ein Tag,
 Da hob er sich, und sein gequältes Auge
@@ -2178,16 +2178,16 @@ Geheimnisvolles Leben! Dunkler Tod!
 
 O wie das Leben um ihn rang und niemals
 Ihn ganz verstricken konnte ins Geheimnis
-Wollüstiger Verwandlung! Wie er <g>blieb</g>!
+Wollüstiger Verwandlung! Wie er =blieb=!
 Wie königlich er standhielt! Wie er schmal,
-Gleich einem Knaben, <g>stand</g>! O kleine Hand
+Gleich einem Knaben, =stand=! O kleine Hand
 Voll Kraft, o kleines Haupt auf feinen Schultern,
 O vogelhaftes Auge, das verschmähte,
 Jung oder alt zu sein, schlafloses Aug,
 O Aug des Sperbers, der auch vor der Sonne
 Den Blick nicht niederschlägt, o kühnes Aug,
 Das beiderlei Abgrund gemessen hat,
-Des Lebens wie des Todes -- Aug des <g>Boten</g>!
+Des Lebens wie des Todes -- Aug des =Boten=!
 O Bote aller Boten, Geist! Du Geist!
 Dein Bleiben unter uns war ein Verschmähen,
 Fortwollender! Enteilter! Aufgeflogener!
@@ -2214,11 +2214,11 @@ BÖCKLIN
 
 
 /#
-(<g>In die letzten Takte der Symphonie tritt
+(=In die letzten Takte der Symphonie tritt
 der Prolog auf, seine Fackelträger hinter
 ihm. -- Der Prolog ist ein Jüngling; er ist
 venezianisch gekleidet, ganz in Schwarz,
-als ein Trauernder.</g>)
+als ein Trauernder.=)
 #/
 
 /*
