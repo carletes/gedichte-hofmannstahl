@@ -1,0 +1,36 @@
+Text versions
+=============
+
+Latin-1 and UTF-8 versions are provided. I have indented all poems
+with two blank characters to avoid text rewrapping.
+
+The UTF-8 version uses the German single quote characters. Those
+single quotes are the only difference between the output of 'unitame'
+and the Latin-1 version.
+
+
+HTML version
+============
+
+Passed through W3C's HTML and CSS validators.
+
+
+For the PPVer
+=============
+
+Proofers' remarks found in the text have been handled this way:
+
+* 010.png: No space added between -- and ,
+
+* 018.png: Not starting a new stanza, since there's no period at the
+end of the previous verse.
+
+* 027.png: Changed leading '-' to '--' in:
+
+  -- So ahnte mir, da ich den Traum da fand --
+
+* 031.png: Cavicchio: http://www.zeno.org/Literatur/M/Hofmannsthal,+Hugo+von/Libretti/Ariadne+auf+Naxos/Oper
+
+* 069.png: Not starting a new stanza: Previous verse ends with a comma.
+
+* 070.png: Not starting a new stanza: Previous one too short.
