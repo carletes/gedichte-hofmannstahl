@@ -31,6 +31,10 @@ end of the previous verse.
 
 * 031.png: Cavicchio: http://www.zeno.org/Literatur/M/Hofmannsthal,+Hugo+von/Libretti/Ariadne+auf+Naxos/Oper
 
+* 051.png: Comma after last word.
+
+* 059.png: Comma after last word.
+
 * 069.png: Not starting a new stanza: Previous verse ends with a comma.
 
 * 070.png: Not starting a new stanza: Previous one too short.
