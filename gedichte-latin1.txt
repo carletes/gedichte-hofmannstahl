@@ -3,6 +3,9 @@
     Im Original gesperrt gedruckter Text wurde mit = markiert.
 
     Schreibweise und Interpunktion des Originaltextes wurden übernommen.
+
+    Das Inhaltsverzeichnis wurde vom Ende des Textes an den Anfang
+    verschoben.
   ]
 
 
@@ -15,6 +18,97 @@
                                   1922
 
                        IM INSEL-VERLAG ZU LEIPZIG
+
+
+
+
+INHALT
+
+
+  DIE GESAMMELTEN GEDICHTE
+
+  Vorfrühling                                                          7
+
+  Erlebnis                                                             9
+
+  Vor Tag                                                             11
+
+  Reiselied                                                           13
+
+  Die beiden                                                          14
+
+  Lebenslied                                                          15
+
+  Gute Stunde                                                         17
+
+  Dein Antlitz                                                        18
+
+  Weltgeheimnis                                                       19
+
+  Ballade des äußeren Lebens                                          20
+
+  Nox portentis gravida                                               21
+
+  Glückliches Haus                                                    23
+
+  Botschaft                                                           24
+
+  Terzinen über Vergänglichkeit (I-IV)                                26
+
+  Manche freilich                                                     29
+
+  Ein Traum von großer Magie                                          30
+
+  Im Grünen zu singen (I-III)                                         32
+
+  Liedchen des Harlekin                                               34
+
+  Zerbinetta                                                          35
+
+  Gesang der Ungeborenen                                              37
+
+  Lied der Welt                                                       38
+
+
+  GESTALTEN
+
+  Ein Knabe (I-II)                                                    41
+
+  Der Jüngling in der Landschaft                                      42
+
+  Der Schiffskoch, ein Gefangener, singt                              43
+
+  Des alten Mannes Sehnsucht nach dem Sommer                          44
+
+  Verse auf ein kleines Kind                                          46
+
+  Der Kaiser von China spricht                                        47
+
+  Großmutter und Enkel                                                49
+
+  Gespräch                                                            51
+
+  Gesellschaft                                                        53
+
+  Der Jüngling und die Spinne                                         55
+
+  Idylle. Nach einem antiken Vasenbild: Zentaur mit verwundeter
+  Frau am Rand eines Flusses                                          58
+
+
+  PROLOGE UND TRAUERREDEN
+
+  Prolog zu dem Buch >Anatol<                                         69
+
+  Zu einem Buch ähnlicher Art                                         72
+
+  Zum Gedächtnis des Schauspielers Mitterwurzer                       74
+
+  Auf den Tod des Schauspielers Hermann Müller                        77
+
+  Verse zum Gedächtnis des Schauspielers Josef Kainz                  79
+
+  Zu einer Totenfeier für Arnold Böcklin                              82
 
 
 
@@ -2079,95 +2173,6 @@ ZU EINER TOTENFEIER FÜR ARNOLD BÖCKLIN
   Vernehmet nun aus schattenhaftem Munde!
 
 
-
-
-INHALT
-
-
-  DIE GESAMMELTEN GEDICHTE
-
-  Vorfrühling                                                          7
-
-  Erlebnis                                                             9
-
-  Vor Tag                                                             11
-
-  Reiselied                                                           13
-
-  Die beiden                                                          14
-
-  Lebenslied                                                          15
-
-  Gute Stunde                                                         17
-
-  Dein Antlitz                                                        18
-
-  Weltgeheimnis                                                       19
-
-  Ballade des äußeren Lebens                                          20
-
-  Nox portentis gravida                                               21
-
-  Glückliches Haus                                                    23
-
-  Botschaft                                                           24
-
-  Terzinen über Vergänglichkeit (I-IV)                                26
-
-  Manche freilich                                                     29
-
-  Ein Traum von großer Magie                                          30
-
-  Im Grünen zu singen (I-III)                                         32
-
-  Liedchen des Harlekin                                               34
-
-  Zerbinetta                                                          35
-
-  Gesang der Ungeborenen                                              37
-
-  Lied der Welt                                                       38
-
-
-  GESTALTEN
-
-  Ein Knabe (I-II)                                                    41
-
-  Der Jüngling in der Landschaft                                      42
-
-  Der Schiffskoch, ein Gefangener, singt                              43
-
-  Des alten Mannes Sehnsucht nach dem Sommer                          44
-
-  Verse auf ein kleines Kind                                          46
-
-  Der Kaiser von China spricht                                        47
-
-  Großmutter und Enkel                                                49
-
-  Gespräch                                                            51
-
-  Gesellschaft                                                        53
-
-  Der Jüngling und die Spinne                                         55
-
-  Idylle. Nach einem antiken Vasenbild: Zentaur mit verwundeter
-  Frau am Rand eines Flusses                                          58
-
-
-  PROLOGE UND TRAUERREDEN
-
-  Prolog zu dem Buch >Anatol<                                         69
-
-  Zu einem Buch ähnlicher Art                                         72
-
-  Zum Gedächtnis des Schauspielers Mitterwurzer                       74
-
-  Auf den Tod des Schauspielers Hermann Müller                        77
-
-  Verse zum Gedächtnis des Schauspielers Josef Kainz                  79
-
-  Zu einer Totenfeier für Arnold Böcklin                              82
 
 
   Gedruckt bei
