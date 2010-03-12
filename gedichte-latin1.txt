@@ -98,7 +98,7 @@ INHALT
 
   PROLOGE UND TRAUERREDEN
 
-  Prolog zu dem Buch >Anatol<                                         69
+  Prolog zu dem Buch 'Anatol'                                         69
 
   Zu einem Buch ähnlicher Art                                         72
 
@@ -213,7 +213,7 @@ VOR TAG
 
   Nun liegt und zuckt am fahlen Himmelsrand
   In sich zusammgesunken das Gewitter.
-  Nun denkt der Kranke: >Tag! jetzt werd ich schlafen!<
+  Nun denkt der Kranke: 'Tag! jetzt werd ich schlafen!'
   Und drückt die heißen Lider zu. Nun streckt
   Die junge Kuh im Stall die starken Nüstern
   Nach kühlem Frühduft. Nun im stummen Wald
@@ -230,8 +230,8 @@ VOR TAG
   Sich unterreden auf dem Brücklein: leise.
   Und doch ist ihre kleine Rede ewig
   Und unzerstörbar wie die Sterne droben.
-  Er trägt sein Kreuz und sagt nur: >Meine Mutter!<
-  Und sieht sie an, und: >Ach, mein lieber Sohn!<
+  Er trägt sein Kreuz und sagt nur: 'Meine Mutter!'
+  Und sieht sie an, und: 'Ach, mein lieber Sohn!'
   Sagt sie. -- Nun hat der Himmel mit der Erde
   Ein stumm beklemmend Zwiegespräch. Dann geht
   Ein Schauer durch den schweren, alten Leib:
@@ -453,7 +453,7 @@ BALLADE DES ÄUSSEREN LEBENS
   Und wandernd nimmer suchen irgend Ziele?
 
   Was frommts, dergleichen viel gesehen haben?
-  Und dennoch sagt der viel, der >Abend< sagt,
+  Und dennoch sagt der viel, der 'Abend' sagt,
   Ein Wort, daraus Tiefsinn und Trauer rinnt
 
   Wie schwerer Honig aus den hohlen Waben.
@@ -774,7 +774,7 @@ I
   Lag und spielte, das war ich.
 
   Was ich konnte, sprach ich aus:
-  >Liebste du, mein Alles du!<
+  'Liebste du, mein Alles du!'
   Östlich brach ein Licht heraus,
   Schwerer Tag trieb mich nach Haus,
   Und mein Mund ist wieder zu.
@@ -801,7 +801,7 @@ II
 
 III
 
-  Die Liebste sprach: >Ich halt dich nicht,
+  Die Liebste sprach: 'Ich halt dich nicht,
   Du hast mir nichts geschworn.
   Die Menschen soll man halten nicht,
   Sind nicht zur Treu geborn.
@@ -814,7 +814,7 @@ III
   Wo dir der Wein zu sauer ist,
   Da trink du Malvasier,
   Und wenn mein Mund dir süßer ist,
-  So komm nur wieder zu mir!<
+  So komm nur wieder zu mir!'
 
 
 
@@ -1053,7 +1053,7 @@ DES ALTEN MANNES SEHNSUCHT NACH DEM SOMMER
 
   Und aus dem Schatten in des Abendlichts
   Beglückung tret ich, und ein Hauch weht hin,
-  Doch nirgend flüsterts: >Alles dies ist nichts.<
+  Doch nirgend flüsterts: 'Alles dies ist nichts.'
 
   Das Tal wird dunkel, und wo Häuser sind,
   Sind Lichter, und das Dunkel weht mich an,
@@ -1065,7 +1065,7 @@ DES ALTEN MANNES SEHNSUCHT NACH DEM SOMMER
 
   Und zwischen Haselsträuchern, die schon düstern,
   Fließt Wasser hin, und wie ein Kind, so lausch ich
-  Und höre kein >Dies ist vergeblich< flüstern!
+  Und höre kein 'Dies ist vergeblich' flüstern!
 
   Da ziehe ich mich hurtig aus und springe
   Hinein, und wie ich dann den Kopf erhebe,
@@ -1175,24 +1175,24 @@ DER KAISER VON CHINA SPRICHT:
 GROSSMUTTER UND ENKEL
 
 
-  >Ferne ist dein Sinn, dein Fuß
-  Nur in meiner Tür!<
+  'Ferne ist dein Sinn, dein Fuß
+  Nur in meiner Tür!'
   Woher weißt du's gleich beim Gruß?
-  >Kind, weil ich es spür.<
+  'Kind, weil ich es spür.'
 
-  Was? >Wie Sie aus süßer Ruh
-  Süß durch dich erschrickt.< --
+  Was? 'Wie Sie aus süßer Ruh
+  Süß durch dich erschrickt.' --
   Sonderbar, wie Sie hast du
   Vor dich hingenickt.
 
-  >Einst ...< Nein: jetzt im Augenblick!
+  'Einst ...' Nein: jetzt im Augenblick!
   Mich beglückt der Schein --
-  >Kind, was haucht dein Wort und Blick
+  'Kind, was haucht dein Wort und Blick
   Jetzt in mich hinein?
 
   Meine Mädchenzeit voll Glanz
   Mit verstohlnem Hauch
-  Öffnet mir die Seele ganz!<
+  Öffnet mir die Seele ganz!'
   Ja, ich spür es auch:
 
   Und ich bin bei dir und bin
@@ -1200,10 +1200,10 @@ GROSSMUTTER UND ENKEL
   Ihr und dir mit wachem Sinn
   Schwankend nah und fern!
 
-  >Als ich dem Großvater dein
+  'Als ich dem Großvater dein
   Mich fürs Leben gab,
   Trat ich so verwirrt nicht ein
-  Wie nun in mein Grab.<
+  Wie nun in mein Grab.'
 
   Grab? Was redest du von dem?
   Das ist weit von dir!
@@ -1212,15 +1212,15 @@ GROSSMUTTER UND ENKEL
 
   Deine Augen frisch und reg,
   Deine Wangen hell --
-  >Flog nicht übern kleinen Weg
-  Etwas schwarz und schnell?<
+  'Flog nicht übern kleinen Weg
+  Etwas schwarz und schnell?'
 
   Etwas ist, das wie im Traum
   Mich Verliebten hält.
   Wie der enge schwüle Raum
   Seltsam mich umstellt!
 
-  >Fühlst du, was jetzt mich umblitzt
+  'Fühlst du, was jetzt mich umblitzt
   Und mein stockend Herz?
   Wenn du bei dem Mädchen sitzt,
   Unter Kuß und Scherz,
@@ -1228,7 +1228,7 @@ GROSSMUTTER UND ENKEL
   Fühl es fort und denk an mich,
   Aber ohne Graun:
   Denk, wie ich im Sterben glich
-  Jungen, jungen Fraun.<
+  Jungen, jungen Fraun.'
 
 
 
@@ -1259,9 +1259,9 @@ DER JÜNGERE:
   Weil sie auch aus der leeren Luft so etwas
   Wie Augen stets auf sich gerichtet fühlt.
   Allmählich wird sie größer, und ihr lehrt sie:
-  >Hab du das Leben lieb, dich nicht zu lieb,
+  'Hab du das Leben lieb, dich nicht zu lieb,
   Und nur um seiner selbst, doch immerfort
-  Nur um des Guten willen, das darin ist.<
+  Nur um des Guten willen, das darin ist.'
   In all dem ist für sie kein Widerspruch,
   Denn so wie bunte Muscheln oder Vögel
   Hat sie die Tugend lieb. Bis eines Tages
@@ -1746,7 +1746,7 @@ PROLOGE UND TRAUERREDEN
 
 
 
-PROLOG ZU DEM BUCH >ANATOL<
+PROLOG ZU DEM BUCH 'ANATOL'
 
 
   Hohe Gitter, Taxushecken,
@@ -1836,8 +1836,8 @@ ZU EINEM BUCH ÄHNLICHER ART
   Wer allzusehr verliebt ist in das Süße,
   Erträgt uns nicht, denn unsre Art ist herb,
   Und unsre Unterhaltung wunderlich.
-    >Schlagt eine kleine Bühne auf im Zimmer,
-    Denn die Haustochter will Theater spielen!<
+    'Schlagt eine kleine Bühne auf im Zimmer,
+    Denn die Haustochter will Theater spielen!'
     Meint ihr, sie wird als kleine Muse kommen,
     Mit offnem Haar, und in den bloßen Armen
     Wird eine leichte goldne Leier liegen?
